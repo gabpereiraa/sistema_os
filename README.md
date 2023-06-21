@@ -2,6 +2,6 @@
 <h3 align="center">Assistencia Técnica de Smartphones</h3>
 
 - **FERRAMENTAS**
-   <p align="left"> <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /img> width="40" height="40 </a> </p>
+   <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> width="40" height="40 </a> </p>
    
           
