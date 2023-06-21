@@ -3,7 +3,7 @@
 
 ### Pré requesitos:
 É necessário ter instalado no computador;
-* Java versão 17 ou superior  <a href="https://www.java.com/pt-BR/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />  </a>
+* Java versão 17 ou superior <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" href="https://www.java.com/pt-BR/"/>
 * XAMPP  <a href="https://www.apachefriends.org/pt_br/index.html" > <img src="https://static-00.iconduck.com/assets.00/xampp-icon-508x512-hsh5ht6u.png" width="40" height="40" /> </a>
 
  ### Instalação:
