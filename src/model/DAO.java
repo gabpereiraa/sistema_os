@@ -5,9 +5,9 @@ import java.sql.DriverManager;
 
 public class DAO {
 	private String driver = "com.mysql.cj.jdbc.Driver";
-	private String url = "jdbc:mysql://10.26.49.234:3306/dbcelular";
-	private String user = "dba";
-	private String password = "123@senac";
+	private String url = "jdbc:mysql://localhost:3306/dbcelular";
+	private String user = "root";
+	private String password = "";
 	private Connection con;
 
 	public Connection conectar() {
