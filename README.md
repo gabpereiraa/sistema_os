@@ -1,6 +1,9 @@
 <h1 align="center">Sistema de OS</h1>
 <h3 align="center">Assistencia Técnica de Smartphones</h3>
 
+### Descrição:
+<p>Projeto de uma Assistencia Tecnica</p>
+
 ### Pré requesitos:
 É necessário ter instalado no computador;
 * Java versão 17 ou superior <a href="https://www.java.com/pt-BR/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> </a>
