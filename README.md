@@ -1,8 +1,9 @@
 <h1 align="center">Sistema de OS</h1>
-<h3 align="center">Assistencia Técnica de Smartphones</h3>
+<h3 align="center">Assistência  Técnica de Smartphones</h3>
 
 ### Descrição:
-<p>Projeto de uma Assistencia Tecnica</p>
+<p>Projeto de Ordem de Serviço de Assistência Técnica de Smartphones 
+ Desenvolvido no Eclipse em linguagem JAVA</p>
 
 ### Pré requesitos:
 É necessário ter instalado no computador;
