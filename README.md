@@ -14,7 +14,11 @@
           
 ### Interfaces:
 * Login
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/tela_login.png)
 * Principal
+
+    ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/tela_principal.png)
 * Usuários
 * Clientes
 * Técnicos
