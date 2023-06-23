@@ -2,7 +2,7 @@
 <h3 align="center">Assistência  Técnica de Smartphones</h3>
 
 ### Descrição:
-<p>Projeto de Ordem de Serviço de Assistência Técnica de Smartphones 
+<p>Projeto de Ordem de Serviço de uma Assistência Técnica de Smartphones 
  Desenvolvido no Eclipse em linguagem JAVA</p>
 
 ### Pré requesitos:
