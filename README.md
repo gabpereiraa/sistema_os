@@ -20,9 +20,23 @@
 
     ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/tela_principal.png)
 * Usuários
+
+     ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/tela_usuario.png)
 * Clientes
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/tela_cliente.png)
 * Técnicos
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/tela_tecnico.png)
 * Fornecedores
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/tela_fornecedores.png)
 * Ordem de Serviço (OS)
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/tela_os.png)
 * Estoque
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/tela_estoque.png)
 * Relatorios
+
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/tela_relatorio.png)
