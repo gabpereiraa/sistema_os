@@ -19,8 +19,8 @@ insert into usuarios(nome,login,senha,perfil) values ('Administrador','admin',md
 
 create table clientes (
 	idcli int primary key auto_increment,
-	nome varchar(30) not null, /*nome com 30 caracter e obrigatorio*/
-	cpf varchar(11) not null unique,/*unique = nao aceita valores duplicados*/
+	nome varchar(30) not null,
+	cpf varchar(11) not null unique,
     rg varchar(9) not null unique,
 	endereco varchar(200) not null,
     numeroendereco varchar(5) not null,
@@ -32,6 +32,29 @@ create table clientes (
     telefone1 varchar(11) not null,
     telefone2 varchar(11),
     email varchar(100) not null
+);
+
+create table tecnicos ( 
+	idtec int primary key auto_increment,
+	nome varchar(30) not null,
+	fone varchar (15) unique not null
+);
+
+create table fornecedores (
+	idforn int primary key auto_increment,
+	razao varchar(50) not null, 
+	cnpj varchar(18) not null unique,
+	endereco varchar(100) not null,
+    numeroendereco varchar(5) not null,
+    bairro varchar(50) not null,
+	cidade varchar(50) not null,
+    cep varchar(9) not null,
+    uf varchar(2) not null,
+    complemento varchar(50),
+    telefone1 varchar(11) not null,
+    telefone2 varchar(11) not null,
+    email varchar(100) not null,
+    site varchar(100)
 );
 
 create table servicos(
@@ -52,39 +75,16 @@ create table servicos(
     foreign key(idtec) references tecnicos(idtec)
 );
 
-create table fornecedores (
-	idforn int primary key auto_increment,
-	razao varchar(50) not null, /*nome com 30 caracter e obrigatorio*/
-	cnpj varchar(18) not null unique,/*unique = nao aceita valores duplicados*/
-	endereco varchar(100) not null,
-    numeroendereco varchar(5) not null,
-    bairro varchar(50) not null,
-	cidade varchar(50) not null,
-    cep varchar(9) not null,
-    uf varchar(2) not null,
-    complemento varchar(50),
-    telefone1 varchar(11) not null,
-    telefone2 varchar(11) not null,
-    email varchar(100) not null,
-    site varchar(100)
-);
-
-create table tecnicos ( /* Tabela com campos*/
-	idtec int primary key auto_increment,
-	nome varchar(30) not null, /*nome com 30 caracter e obrigatorio*/
-	fone varchar (15) unique not null
-);
-
 create table estoques (
 	idprodut int primary key auto_increment,
     idforn int,
     produto varchar(70) not null,
-	codebarra varchar(13) not null unique, /*nome com 30 caracter e obrigatorio*/
+	codebarra varchar(13) not null unique,
 	unimedida varchar(10),
     localarm varchar(50),
     estoque int not null,
     estoquemin int not null,
-	descricao varchar(200),/*unique = nao aceita valores duplicados*/
+	descricao varchar(200),
     validade date not null,
     valor decimal(10,2) not null,
 	dataEntrada timestamp default current_timestamp,
