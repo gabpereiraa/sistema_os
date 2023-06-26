@@ -13,7 +13,7 @@
  ### Instalação:
 * Execute o XAMPP e acesse a administração do MySQL (phpmyadmin)
 * Crie um novo banco de dados de nome dbcelular
-* Faça a importação do arquivo [assistencia_tecnica.sql](https://www.example.com)
+* Faça a importação do arquivo [assistencia_tecnica.sql]([https://www.example.com](https://github.com/gabpereiraa/sistema_os/blob/main/assistencia_tecnica.sql))
  para o XAMPP
 * Em "Releases" faça o download da agenda (.jar) e execute o arquivo
           
