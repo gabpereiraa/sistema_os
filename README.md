@@ -15,7 +15,7 @@ Projeto de Ordem de Serviço de uma Assistência Técnica de Smartphones
   
   ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/xampp.png)
 * Acesse a administração do MySQL [(phpmyadmin)](https://locallhost.me/phpmyadmin)
-* Crie um novo banco de dados de nome dbcelular
+* Crie um novo banco de dados de nome **dbcelular**
 * Faça a importação do arquivo [assistencia_tecnica.sql](https://github.com/gabpereiraa/sistema_os/blob/main/assistencia_tecnica.sql)
  para o XAMPP
 * Em "Releases" faça o download da [assistencia_tecnica(.jar)](https://github.com/gabpereiraa/sistema_os/releases/download/assistencia_tecnica/assistencia_tecnica.jar)  e execute o arquivo
