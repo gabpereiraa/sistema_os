@@ -1,7 +1,7 @@
-<h1 align="center">Sistema de OS</h1>
+<h1 align="center">Sistema de OS</h1> ![GitHub](https://img.shields.io/github/license/gabpereiraa/sistema_os?style=flat-square&logo=github&logoColor=black)
 <h3 align="center">Assistência  Técnica de Smartphones</h3>
 
-### Licença: ![GitHub](https://img.shields.io/github/license/gabpereiraa/sistema_os?style=flat-square&logo=github&logoColor=black)
+### Licença:
 
 
 ### Descrição:
