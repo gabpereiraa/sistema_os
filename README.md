@@ -3,7 +3,7 @@
 
 ### Descrição:
 <p>Projeto de Ordem de Serviço de uma Assistência Técnica de Smartphones 
- Desenvolvido no Eclipse em linguagem JAVA</p>
+ Desenvolvido no [Eclipse](https://www.eclipse.org/) em linguagem [JAVA](https://www.java.com/pt-BR/)</p>
 
 ### Pré requesitos:
 É necessário ter instalado no computador;
