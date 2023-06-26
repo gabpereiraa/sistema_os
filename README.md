@@ -8,6 +8,8 @@
 Projeto de Ordem de Serviço de uma Assistência Técnica de Smartphones 
  Desenvolvido no [Eclipse](https://www.eclipse.org/) em linguagem [JAVA](https://www.java.com/pt-BR/)
 
+## AUTOR: GABRIEL ANASTÁCIO
+
 ### Pré requesitos:
 É necessário ter instalado no computador;
 * Java versão 17 ou superior <a href="https://www.java.com/pt-BR/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> </a>
