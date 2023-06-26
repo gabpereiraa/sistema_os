@@ -2,8 +2,8 @@
 <h3 align="center">Assistência  Técnica de Smartphones</h3>
 
 ### Descrição:
-<p>Projeto de Ordem de Serviço de uma Assistência Técnica de Smartphones 
- Desenvolvido no [Eclipse](https://www.eclipse.org/) em linguagem [JAVA](https://www.java.com/pt-BR/)</p>
+Projeto de Ordem de Serviço de uma Assistência Técnica de Smartphones 
+ Desenvolvido no [Eclipse](https://www.eclipse.org/) em linguagem [JAVA](https://www.java.com/pt-BR/)
 
 ### Pré requesitos:
 É necessário ter instalado no computador;
