@@ -12,6 +12,7 @@
 
  ### Instalação:
 * Execute o XAMPP
+  
   ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/xampp.png)
 * Acesse a administração do MySQL [(phpmyadmin)](https://locallhost.me/phpmyadmin)
 * Crie um novo banco de dados de nome dbcelular
