@@ -12,6 +12,7 @@
 
  ### Instalação:
 * Execute o XAMPP e acesse a administração do MySQL (phpmyadmin)
+  ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/xampp.png)
 * Crie um novo banco de dados de nome dbcelular
 * Faça a importação do arquivo [assistencia_tecnica.sql](https://github.com/gabpereiraa/sistema_os/blob/main/assistencia_tecnica.sql)
  para o XAMPP
