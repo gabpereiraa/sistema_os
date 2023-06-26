@@ -1,6 +1,9 @@
 <h1 align="center">Sistema de OS</h1>
 <h3 align="center">Assistência  Técnica de Smartphones</h3>
 
+### Licença: ![GitHub](https://img.shields.io/github/license/gabpereiraa/sistema_os?style=flat-square&logo=github&logoColor=black)
+
+
 ### Descrição:
 Projeto de Ordem de Serviço de uma Assistência Técnica de Smartphones 
  Desenvolvido no [Eclipse](https://www.eclipse.org/) em linguagem [JAVA](https://www.java.com/pt-BR/)
