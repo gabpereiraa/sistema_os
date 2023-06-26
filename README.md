@@ -11,8 +11,9 @@
 * XAMPP  <a href="https://www.apachefriends.org/pt_br/index.html" > <img src="https://static-00.iconduck.com/assets.00/xampp-icon-508x512-hsh5ht6u.png" width="40" height="40" /> </a>
 
  ### Instalação:
-* Execute o XAMPP e acesse a administração do MySQL (phpmyadmin)
+* Execute o XAMPP
   ![Print da Tela](https://github.com/gabpereiraa/sistema_os/blob/main/img/xampp.png)
+* Acesse a administração do MySQL [(phpmyadmin)](https://locallhost.me/phpmyadmin)
 * Crie um novo banco de dados de nome dbcelular
 * Faça a importação do arquivo [assistencia_tecnica.sql](https://github.com/gabpereiraa/sistema_os/blob/main/assistencia_tecnica.sql)
  para o XAMPP
