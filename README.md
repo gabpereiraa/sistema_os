@@ -15,7 +15,7 @@
 * Crie um novo banco de dados de nome dbcelular
 * Faça a importação do arquivo [assistencia_tecnica.sql](https://github.com/gabpereiraa/sistema_os/blob/main/assistencia_tecnica.sql)
  para o XAMPP
-* Em "Releases" faça o download da agenda (.jar) e execute o arquivo
+* Em "Releases" faça o download da [assistencia_tecnica(.jar)](https://github.com/gabpereiraa/sistema_os/releases/download/assistencia_tecnica/assistencia_tecnica.jar)  e execute o arquivo
           
 ### Interfaces:
 * Login
