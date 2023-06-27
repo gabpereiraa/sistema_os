@@ -2,10 +2,7 @@
 * Smartphone
 * @author Gabriel Anastacio
 */
-create database dbcelular;
-show databases;
 use dbcelular;
-select dbcelular;
 
 create table usuarios ( 
 	iduser int primary key auto_increment,
